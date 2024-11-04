@@ -3,6 +3,7 @@ import "../App.css";
 import SectionAbout from "./SectionAbout";
 import SectionTeams from "./SectionTeams";
 import SectionSlogan from "./SectionSlogan";
+import SectionVision from "./SectionVision";
 
 const AboutScenario = () => {
   return (
@@ -10,6 +11,7 @@ const AboutScenario = () => {
       <SectionAbout />
       <SectionTeams />
       <SectionSlogan />
+      <SectionVision />
     </main>
   );
 };
