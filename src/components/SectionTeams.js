@@ -11,7 +11,7 @@ import BubbleSectionAbout from "../assets/images/BubbleSectionAbout.png";
 const SectionTeams = () => {
   return (
     <div
-      className="relative max-w-[1440px] h-[1533.5px] w-full mt-[-387px] bg-cover object-cover z-[0]"
+      className="relative max-w-[1440px] h-auto w-full mt-[-387px] bg-cover object-cover z-[0]"
       style={{
         backgroundImage: `url(${BubbleSectionAbout})`,
       }}
