@@ -4,6 +4,7 @@ import SectionAbout from "./SectionAbout";
 import SectionTeams from "./SectionTeams";
 import SectionSlogan from "./SectionSlogan";
 import SectionVision from "./SectionVision";
+import SectionMission from "./SectionMission";
 
 const AboutScenario = () => {
   return (
@@ -12,6 +13,7 @@ const AboutScenario = () => {
       <SectionTeams />
       <SectionSlogan />
       <SectionVision />
+      <SectionMission />
     </main>
   );
 };

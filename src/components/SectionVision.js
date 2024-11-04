@@ -14,7 +14,7 @@ const SectionVision = () => {
           <div className="max-w-[475px] w-full h-auto mt-0">
             <img src={BgIllustration} alt="" />
           </div>
-          {/* Right side text and button */}
+          {/* Right side title text */}
           <div className="flex flex-col max-w-[475px] w-full h-auto lg:mt-[11px] mt-8 lg:px-0 md:px-6 px-4 lg:items-start items-center lg:text-left text-center">
             <div className="max-w-[84px] w-full h-[20px] font-poppins font-semibold text-[16px] leading-[20px] text-[#FF64AE]">
               <p className="m-0">Our Vision</p>
