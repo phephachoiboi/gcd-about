@@ -35,7 +35,7 @@ const SectionAbout = () => {
           {/* Lower part for banner & button solution 1 */}
           <div
             className="relative lg:mt-[58px] mt-[77px] max-w-[1140px] w-full h-[540px] bg-cover object-cover lg:rounded-none rounded-[25px]
-            flex items-center justify-center"
+            flex items-center justify-center z-[1]"
             style={{
               backgroundImage: `url(${UnsplashSectionAbout2})`,
               backgroundPosition: "center",
