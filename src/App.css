@@ -2,3 +2,84 @@
   margin: 0;
   background: #FFFFFF;
 }
+
+ /* Professional Teams */
+ .char-espanol-3 {
+  position: relative;
+  width: 270px;
+  height: 63px;
+  margin-top: 6px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0.1rem;
+  text-align: center;
+  color: #8B8B8B;
+ }
+ .char-espanol-3 p {margin: 0;}
+ 
+ .social-media {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 215px;
+  height: 49px;
+  justify-content: space-between;
+  margin-top: 50px;
+ }
+ 
+ .twitter {
+  width: 49px;
+  height: 49px;
+  background: none;
+  border: none;
+  padding: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #FFFFFF;
+  box-shadow: -2px 6px 16px -1px #E6E9FD;
+ }
+ .twitter img {
+  margin: 14.35px 12px 14.35px 12px;
+  object-fit: contain;
+ }
+ 
+ .facebook {
+  width: 49px;
+  height: 49px;
+  background: none;
+  border: none;
+  padding: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #FFFFFF;
+  box-shadow: -2px 6px 16px -1px #E6E9FD;
+ }
+ .facebook img {
+  margin: 12px 18.81px 12px 16.81px;
+  object-fit: contain;
+ }
+ 
+ .instagram {
+  width: 49px;
+  height: 49px;
+  background: none;
+  border: none;
+  padding: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #FFFFFF;
+  box-shadow: -2px 6px 16px -1px #E6E9FD;
+ }
+ .instagram img {
+  margin: 12px 12px 12px 12px;
+  object-fit: contain;
+ }
+ /* Professional Teams Complete */
