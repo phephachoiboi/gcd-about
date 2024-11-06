@@ -9,7 +9,7 @@ import SectionClient from "./SectionClients";
 
 const AboutScenario = () => {
   return (
-    <main className="flex flex-col m-0 p-0">
+    <main className="flex flex-col m-0 p-0 mx-0">
       <SectionAbout />
       <SectionTeams />
       <SectionSlogan />
