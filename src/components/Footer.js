@@ -13,7 +13,7 @@ import CaretRight from "../assets/images/caret-right.png";
 const Footer = () => {
   return (
     <div
-      className="relative lg:mt-[123px] mt-[77px] max-w-[1440px] w-full h-auto bg-cover object-cover"
+      className="relative lg:mt-[123px] mt-[77px] max-w-[1440px] w-full h-auto mx-auto bg-cover object-cover"
       style={{ backgroundImage: `url(${BGFooter})` }}
     >
       <div className="flex lg:px-0 md:px-6 px-4 z-[1]">

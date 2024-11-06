@@ -5,7 +5,7 @@ import BgGroupSectionSlogan from "../assets/images/BgGroupSectionSlogan.png";
 const SectionSlogan = () => {
   return (
     <div
-      className="relative max-w-[1440px] h-[529px] mt-[149.5px] w-full bg-cover object-cover z-[0]"
+      className="relative max-w-[1440px] h-[529px] mt-[149.5px] w-full mx-auto bg-cover object-cover z-[0]"
       style={{
         backgroundImage: `url(${BgGroupSectionSlogan})`,
       }}
